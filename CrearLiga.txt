@@ -1,0 +1,13 @@
+4
+Champions League
+8
+Real Madrid
+Atlético de Madrid
+Liverpool
+Bayern Munich
+Juventus
+Manchester City
+Barcelona
+Chelsea
+5
+3

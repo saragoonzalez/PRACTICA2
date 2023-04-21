@@ -1,0 +1,119 @@
+1
+2
+Atlético de Madrid
+2
+Liverpool
+2
+Bayern Munich
+2
+Real Madrid
+2
+Manchester City
+2
+Juventus
+2
+Inter de Milán
+2
+Chelsea
+2
+Barcelona
+2
+Paris Saint-Germain
+2
+Borussia Dortmund
+2
+Manchester United
+5
+2
+3
+Atlético de Madrid
+Jan Oblak
+3
+Liverpool
+Alisson Becker
+3
+Bayern Munich
+Manuel Neuer
+3
+Real Madrid
+Thibaut Courtois
+3
+Manchester City
+Ederson
+3
+Liverpool
+Virgil van Dijk
+3
+Real Madrid
+Sergio Ramos
+3
+Manchester City
+Aymeric Laporte
+3
+Liverpool
+Trent Alexander-Arnold
+3
+Liverpool
+Andrew Robertson
+3
+Bayern Munich
+Joshua Kimmich
+3
+Manchester City
+Kyle Walker
+3
+Juventus
+Leonardo Bonucci
+3
+Inter de Milán
+Stefan de Vrij
+3
+Manchester City
+Rúben Dias
+3
+Manchester City
+Kevin De Bruyne
+3
+Chelsea
+N'Golo Kanté
+3
+Barcelona
+Frenkie de Jong
+3
+Manchester United
+Bruno Fernandes
+3
+Real Madrid
+Toni Kroos
+3
+Paris Saint-Germain
+Marco Verratti
+3
+Real Madrid
+Casemiro
+3
+Manchester City
+Ilkay Gündogan
+3
+Manchester City
+Bernardo Silva
+3
+Paris Saint-Germain
+Georginio Wijnaldum
+3
+Paris Saint-Germain
+Lionel Messi
+3
+Manchester United
+Cristiano Ronaldo
+3
+Bayern Munich
+Robert Lewandowski
+3
+Paris Saint-Germain
+Kylian Mbappé
+3
+Borussia Dortmund
+Erling Haaland
+5
+2

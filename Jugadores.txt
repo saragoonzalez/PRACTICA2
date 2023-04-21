@@ -1,0 +1,170 @@
+1
+portero
+Jan Oblak
+92380644X
+656789123
+1
+portero
+Alisson Becker
+63721105Y
+672340987
+1
+portero
+Manuel Neuer
+75440278Z
+608712345
+1
+portero
+Thibaut Courtois
+50014932A
+611298765
+1
+portero
+Ederson
+82003456B
+666111333
+1
+defensa
+Virgil van Dijk
+64938457C
+620987654
+1
+defensa
+Sergio Ramos
+90071265D
+688765432
+1
+defensa
+Aymeric Laporte
+60753846E
+655433221F
+1
+defensa
+Trent Alexander-Arnold
+86542993G
+621234567
+1
+defensa
+Andrew Robertson
+72412988H
+678911223
+1
+defensa
+Joshua Kimmich
+84531765Y
+633221100
+1
+defensa
+Kyle Walker
+68101987J
+609876543
+1
+defensa
+Leonardo Bonucci
+89412347K
+688888888
+1
+defensa
+Stefan de Vrij
+52789375L
+642111999
+1
+defensa
+Rúben Dias
+95248560M
+600123456
+1
+medio
+Kevin De Bruyne
+78322654N
+633377777
+1
+medio
+N'Golo Kanté
+69216785O
+622222222
+1
+medio
+Frenkie de Jong
+59684728P
+677777777
+1
+medio
+Bruno Fernandes
+80294357Q
+655566666
+1
+medio
+Toni Kroos
+94578236R
+616666666
+1
+medio
+Marco Verratti
+77897563S
+699999999
+1
+medio
+Casemiro
+59972658T
+6799999991
+medio
+Ilkay Gündogan
+71203984U
+6009876541
+medio
+Bernardo Silva
+88762941V
+6333444551
+medio
+Georginio Wijnaldum
+53879624W
+6578912341
+delantero
+Lionel Messi
+72309685X
+6345678901
+delantero
+Cristiano Ronaldo
+84431976Y
+6654321001
+delantero
+Robert Lewandowski
+58432901Z
+6777778881
+delantero
+Kylian Mbappé
+68594013A
+6669990001
+delantero
+Erling Haaland
+92081547B
+655555888
+5
+1
+2
+Atlético de Madrid
+2
+Liverpool
+2
+Bayern Munich
+2
+Real Madrid
+2
+Manchester City
+2
+Juventus
+2
+Inter de Milán
+2
+Chelsea
+2
+Barcelona
+2
+Paris Saint-Germain
+2
+Borussia Dortmund
+2
+Manchester United
+5
+2
